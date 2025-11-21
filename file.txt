@@ -1,4 +1,0 @@
-hey there is text for file I/O 
-this is second line 
-pure text
-python i/o model.
